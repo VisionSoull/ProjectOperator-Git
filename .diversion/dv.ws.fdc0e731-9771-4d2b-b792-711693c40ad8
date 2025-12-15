@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.fdc0e731-9771-4d2b-b792-711693c40ad8",
+  "RepoID": "dv.repo.6f97e493-ea83-4f78-b875-7ad47d3e58c5",
+  "Path": "Z:\\_Repositories\\Diversion\\ProjectOperator",
+  "AccountID": "nelson_romao_at_outlook.com",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.3",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "ProjectOperator",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
